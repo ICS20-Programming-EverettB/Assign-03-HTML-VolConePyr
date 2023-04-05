@@ -1,1 +1,2 @@
 # Assign-03-HTML-VolConePyr
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-EverettB/Assign-03-HTML-VolConePyr/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-EverettB/Assign-03-HTML-VolConePyr/actions)
